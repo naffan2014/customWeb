@@ -1,0 +1,14 @@
+server:
+    port: 8096
+management:
+    port: 17906
+spring:
+    main:
+        show-banner: false
+    application:
+        name: welfare
+    view:
+        prefix: /WEB-INF/jsp/
+        suffix: .jsp
+    profiles:
+        active: test
