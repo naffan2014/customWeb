@@ -3,8 +3,7 @@
 
 
 客服服务端系统，使用netty、websocket实现消息收发功能，springMvc 容器对象管理以及提供http服务。
-启动方式：进入/apps/customer-web  或者  /apps/customer-web-lj 下，
 
-使用脚本customer-web.sh  start|stop
+启动方式：进入/apps/customer-web  或者  /apps/customer-web-lj 下，使用脚本customer-web.sh  start|stop
 
 logs目录与customer-web.sh平级
